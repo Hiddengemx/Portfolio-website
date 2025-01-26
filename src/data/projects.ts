@@ -18,11 +18,5 @@ export const projects: IProjects[] = [
     description: "Service that generates a random password via bcrypt",
     url: "https://github.com/CatalystoEyes/PasswordWizard",
     technologies: ["Vue", "Express", "Tailwind", "Vite"],
-  },
-  {
-    title: "Auth-Next.js",
-    description: "Next.js auth application with OAuth providers & credentials",
-    url: "https://github.com/CatalystoEyes/Auth-Next.js",
-    technologies: ["React", "Next.js", "Auth.js", "Tailwind(shadcn/ui)"],
-  },
+  }
 ];
